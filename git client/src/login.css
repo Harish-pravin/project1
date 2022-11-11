@@ -1,0 +1,10 @@
+.con{
+    height: 95vh;
+    width: 100vw;
+    background-color: cyan;
+   
+}
+*{
+    margin: 0;
+    padding: 0;
+}
